@@ -35,25 +35,21 @@ This project performs exploratory data analysis (EDA) on the Olist Brazilian e-c
 
 ---
 
-## Key Questions Answered
+## Key Questions & Results
 
-- Customers Table
-  - Total Customers
-  - Total Customers by State and City
-  - Total Customers by Zip Code
-- Order Items Table
-  - Total Orders
-  - Number of products purchased in each order
-  - Number of orders shipped by each seller
-  - Top 10 Most expensive orders placed
-- Order Payments Table
-  - Number of orders by payment type
-  - Top 5 most expensive single-installment orders
-- Orders Table
-  - Total orders by year
-- Products Table
-  - Total Products
-  - Total Products by Category
-- Sellers Table
-  - Total Sellers
-  - Total Sellers by State and City
+| Key Question | Result |
+|-------------|--------|
+| Total number of customers |99,441 Total Customers  |
+| Total customers by state and city |Sao Paulo has highest at 15,540 customers  |
+| Total customers by zip code |Zip Code 22,790 has highest at 142  |
+| Total number of orders |98,666 Total Orders  |
+| Number of products purchased in each order |At most 21 products purchased in each order thus far  |
+| Number of orders shipped from each seller |At most 2033 orders placed from a single seller thus far |
+| Top 10 most expensive orders placed |Most expensive order placed is R$13,664.08  |
+| Number of orders by payment type |Most payments done via Credit Card at 76,795 payments  |
+| Top 5 most expensive single-installment orders |Most expensive single-installment order was for R$13,664.08  |
+| Total orders by year |2018 had most orders by year at 54,011  |
+| Total number of products |32,340 total products  |
+| Total products by category |cama_mesa_banho has most products at 3029  |
+| Total number of sellers |289 total sellers  |
+| Total sellers by state and city |Sao Paulo has most sellers at 63  |
